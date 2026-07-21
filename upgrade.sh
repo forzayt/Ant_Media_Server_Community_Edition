@@ -4,6 +4,7 @@
 # upgrade.sh - Update Script
 # -----------------------------------------------------------------------------
 
+
 # Description:
 #   This script facilitates the seamless update of Ant Media Server to the latest version,
 #   ensuring you have the most up-to-date features, improvements, and bug fixes. 
